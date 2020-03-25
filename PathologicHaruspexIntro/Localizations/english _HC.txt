@@ -1,0 +1,519 @@
+﻿6192355001051851 暮光
+6192355001051852 
+6192355001051853 
+6192355001051855 暮光
+6192355001051856 我回到家了，我需要避开注意。
+6192355001051857 
+6192355001051858 
+6192355001051860 前方很黑。顺着铁轨，我走进一团黑雾之中。
+6192355001051861 
+6192355001051862 
+6192355001051863 错了，这不是我家。是谁在里屋？
+6192355001051864 
+6192355001051865 
+6192355001051866 水是生命之源。外面的木桶里有水。从橱柜里取一个瓶子。简直一团糟。
+6192355001051867 
+6192355001051868 
+6192355001051869 父亲的一封急信，召我赶回故乡。但是谁在里屋？
+6192355001051870 数年来，我第一次回家了。
+6192355001387951 
+6192355001432159 
+6192355001035051 返乡途中
+6192355001068751 一切的开始
+6192355000540252 我？你才是待在棺材里的人。你爬在里面做什么？
+6192355000561651 你是说这个火车吗？
+6192355000540251 你怎么躲进棺材的？
+6192355000561653 你看起来生龙活虎的，应该不是想搭这个交通工具入土吧。是想搭顺风车是吗？
+6192355000561661 的确。
+6192355000561652 棺材是世界上最棒的交通工具。它可以带你到意想不到的地方。
+6192355000561658 并不，我们可不是一丘之貉。
+6192355000561669 搭这趟火车可不需要买票。
+6192355000561670 现在—停止喋喋不休，好吗？你把我弄醒了，我现在想睡一会。
+6192355000561654 就像你一样。
+6192355000561657 躲避什么？死亡？
+6192355000561663 这么狭小的空间里，你肯定挤得骨头疼。
+6192355000561656 我在躲避。
+6192355000561660 所以你也是来我们镇的？
+6192355000561664 那你就藏回去好了，如果你喜欢的话。
+6192355000561659 没错，同时也是为了避开他人。现在暴露我的面孔还为时过早，为时过早。
+6192355000557553 同行的旅人
+6192355000562611 我没有。
+6192355000562614 我不是你们的一员，我不在大草原上长大。
+6192355000562615 谢谢你，弟兄。（金人语）
+6192355000562610 让<i>大地</i>（金人语）母亲轻抚你的脚步，<i>弟兄</i>（金人语）。你没有忘记你的同胞吧？
+6192355000562638 挺健康的。
+6192355000562639 我不知道，恐怕它病了。
+6192355000562640 这怎么判断？
+6192355000562637 你的心脏健康吗？
+6192355000562642 它说了许多。
+6192355000562643 我无法解读这种语言。
+6192355000562644 这是我内心的声音。
+6192355000562641 我们用心去聆听大地的声音。心脏有脉搏，大地亦是。如果他们安详地歌唱，你就会听见大地和草药的语言。温暖和寒冷的语言。 Look, tangher, and listen. Whose words are all around? What does Earth say?
+6192355000562646 Like hell. I'm perfectly happy with my heart.
+6192355000562647 How can you see that?
+6192355000562650 我什么也没有忘记。
+6192355000562645 A lot of time passed. You were gone. You forgot many things. Your heart is spoiled, Khatangher. Let us see if it's rotten.
+6192355000562649 I'll take a look.
+6192355000563251 Neither was I.
+6192355000563252 你们不是人类，是野兽。我不是你们的一员。
+6192355000562648 The fight will show. Whose heart is keen? Who hears the unheard words? You will see my heart. The Kin's blood runs through me. I was never torn from my people. 
+6192355000562613 What need do you have of mine? Isn't it rotten?
+6192355000563253 No. I'd rather keep mine.
+6192355000562612 Let us trade hearts, kholboön. Let's become kin.
+6192355000563255 Just let me go in peace.
+6192355000563256 All right. Let it be so.
+6192355000563254 A river of good washes away a drop of rot. There's no "me" and "you." There's a people, Khatanghe. Mix your flesh with ours.
+6192355000617952 Kin One
+6192355000539054 Medicine? What for?
+6192355000563272 What clot? What are those black flakes?
+6192355000539053 As you can see, the blood no longer flows in this artery. There's a clot. You're a doctor, aren't you? Do you have medicine with you?
+6192355000563258 What is that monster?
+6192355000563263 Who are you?
+6192355000563257 Railroads are beautiful. They always lead to one place you can't turn from… except when there's a silly mistake, like this crash. Dying just to escape fate. Stupid. Boring.
+6192355000563260 Behind me.
+6192355000563264 Is there something monstrous ahead? I don't see any danger.
+6192355000563259 Ahead or behind?
+6192355000563262 What is ahead, then? Why the fires?
+6192355000563275 Death?
+6192355000563261 That is Bos Turokh. A creature of steppe legends from which the world was created. What was he trying to achieve here? Stupid. Life can never prevent death.
+6192355000563266 What about the bull on the tracks?
+6192355000563270 Yes.
+6192355000563271 No.
+6192355000563265 Look closer. Ahead is death. Would you like to check?
+6192355000563268 That bull… What has it done?
+6192355000563269 What happened here?
+6192355000563267 Us? Kind volunteers, who advise you to return to the train car. It will soon leave.
+6192355000563274 I have a lot of time on my hands, then. Bulls are stubborn.
+6192355000563276 I'll go on foot, then. Someone's waiting for me.
+6192355000563273 How should we know? You're the doctor, not us. Go and see. We're only ensuring no other trains are derailed. We'll fix yours, too, once the beast leaves the tracks.
+6192355000539051 执行者
+6192355001037452 …你杀了他？
+6192355001045560 Absit omen…
+6192355001037451 Each has two eyes and two ears. Most have one nose and one mouth.\nRiddle me this: If eyes and ears were switched, what would be right? If noses and mouths were switched, what would be fixed?
+6192355001045559 But I don't.
+6192355001045558 Answer the question, khayaala. You're a steppe man. You must know the answer.
+6192355001045562 Are you even human?
+6192355001045563 Is that man alive, then?
+6192355001045561 Then be on your way, khayaala. People don't kill people.
+6192355001045564 Pack
+6192355000553552 You're feverish.
+6192355000563279 需要帮忙吗？
+6192355000563280 不，我是医生。你怎么了？
+6192355000553551 Someone heavy… I hear heavy steps, in the dark. I can't see you. Are you death?
+6192355000563278 在哪能取到？
+6192355000563281 All right. Wait a bit.
+6192355000563277 Water… I'm so thirsty. I need a drink of fresh water. Please, bring it to me…
+6192355000563283 保持安静。
+6192355000563284 等我。
+6192355000563282 在外面...院子里...说不出话...
+6192355000617951 幸存者
+6192355000969069 搞起来。
+6192355000969070 不，我没兴趣。
+6192355000969068 想来一把吗？
+6192355000969072 赌注是什么？
+6192355000969073 和陌生人？没门。我可能是在和魔鬼赌博。 
+6192355000969071 Dice?
+6192355000969075 你先。
+6192355000969076 为什么？
+6192355000969074 想交换秘密吗？
+6192355000969078 你是卖保险的？
+6192355000969079 你看起来不是税务员，他们乘一等座。
+6192355000969080 征兵的？
+6192355000969081 牧师？
+6192355000969077 我担心人们不会乐于见到我。如果他们视我如粪土，给我? What if my toll is too small? I could fail to meet my goal. But, maybe this is only anxiety. Yes, I can do it.
+6192355000969083 带进棺材？成交。
+6192355000969084 No. I don't like the sound of this.
+6192355000969082 You can share your worries, and I'll take them with me.
+6192355000969086 I'm worried about my father. He summoned me with a letter—a troublesome one. Something bad has happened.
+6192355000969087 I'm a surgeon. I could become a good doctor. But I can't find myself. I'm afraid I'll waste my whole life in this state.
+6192355000969088 No, I think I'll decline. You look untrustworthy.
+6192355000969085 Not really… Your turn now. Be honest, and your fate will change. That's how it goes.
+6192355000969090 You.
+6192355000969091我丝毫不担心。
+6192355000969089 谁先来？
+6192355000969093 你是个有趣的人。
+6192355000969094 我不相信命运。
+6192355000969095 一个人不能输掉他的命运。
+6192355000969092 你的命运。
+6192355000969051 同行的旅人
+6192355000969129 同行的旅人
+6192355000969852 你干嘛把我叫醒？
+6192355000969853 是啊，一个梦。希望不会噩梦成真。
+6192355000969851 做噩梦了？
+6192355000969855 为什么？
+6192355000969856 Same stuff as everyone else. Blood, intestines, and soul.
+6192355000969857 我已经告诉你了。我担心我的父亲。
+6192355000969854 Did I? Awake, asleep, it doesn't matter… You're a restless man. I just wondered what's inside you.
+6192355000969859 Same here.
+6192355000969860 好奇害死猫。
+6192355000969858 Just who I am. I like to get under people's skin, to look beneath the surface.
+6192355000969862 Yes.
+6192355000969861 So you want to meet your dad?
+6192355000969864 Good for you. Now leave me alone.
+6192355000969865 Why have we stopped? Are we there already…?
+6192355000969863 Me too.
+6192355000969867 Will you please get off my back? Can't you see I'm sleeping?
+6192355000969868 Yes.
+6192355000969866 Are you good at it, though?
+6192355000969651 同行的旅人
+6192355000969652 同行的旅人
+6192355000988851 同行的旅人
+6192355000970015 想玩骰子吗？
+6192355000970016 你好些了吗
+6192355000970014 差不多到了。
+6192355000970018 我们快到了吗？
+6192355000970019 True.
+6192355000970017 We've played enough, I think. There's no more time for games. You have work to do.
+6192355000970021 我们快到了吗？
+6192355000970022 感觉就好像我们在兜圈子。
+6192355000970020 Oh yes. Can't wait to get there. Just can't wait.
+6192355000970024 Good luck to you, too.
+6192355000970025 I hope so. This trip has been a long time coming…
+6192355000970023 Well, it was nice passing the time. Good luck with your father. I'm sure he can't wait.
+6192355000970027 Good.
+6192355000970028 These rails feel endless… I'll walk next time.
+6192355000970026 Don't worry. You can't miss it. We're riding the rails, and a railroad, like fate, always has a final destination. Our next stop will be our last. The true stop.
+6192355000969951 同行的旅人
+6192355000988852 同行的旅人
+6192355001037053 Not me. Someone else.
+6192355001045551 I am.
+6192355001037052 口渴吗, 哥们?
+6192355001045553 It's not fair. You have a clear view from up there.
+6192355001045554 I saw the light. I thought it invited me here.
+6192355001045552 There is water in a wooden barrel, behind you. You walked past your goal. Not for the first time, and certainly not for the last.
+6192355001045556 Ouch.
+6192355001045557 But the train was in my path.
+6192355001045555 Like a moth.
+6192355001037051 同行的旅人
+6192355000610841 防护斗篷
+6192355000610842 并不完美，不过足以胜任它的工作，防护感染。
+6192355000610843 Of all the things people can argue about, "canvas vs leather" used to be a very prevalent subject of discussion when I was a kid. Leather items are sturdier, but harder to mend.\n\nFather used to have a good supply of both.
+6192355000610793 布口罩
+6192355000610794 盖住脸。
+6192355000610795 This mask resembles those worn by medical personnel, but instead of sterile gauze, it's made of dirty cloth, and instead of clinging tightly to my face, it hangs loose. Frankly, it's just a rag with two ties.
+6192355000610763 止痛药
+6192355000610764 Helps lower a patient's pain. Made from heart tissue.
+6192355000610765 A mixture of herbs and human organs is called "dead broth." It is believed to absorb death and feebleness, invigorating whoever takes it.
+6192355000610766 “马德睿” 酊剂
+6192355000610767 All antibiotics do is smother whatever life they can. It's no panacea.
+6192355000610768 Man is a microbe for a town and a town for a microbe. Billions of useful bacteria inhabit our body; we would be empty and dead without them. And they're barely distinguishable from lethal microbes.
+6192355000610829 “雅斯”酊剂
+6192355000610831  身体由三个层面组成：血肉，骨头，神经。如果知道哪个层面出了问题即可对症下药。\n\n这个药剂可以让我接触到骨头层面。
+6192355000610832 增强免疫力。可以缓解感染者的疾病症状。
+6192355000610830 增强免疫力。可以缓解感染者的疾病症状。
+6192355000610833 身体由三个层面组成：血肉，骨头，神经。如果知道哪个层面出了问题即可对症下药。\n\n这个药剂可以让我接触到神经层面。
+6192355000610834 “马德睿” 酊剂
+6192355001082252 “祖克” 酊剂
+6192355001082253 增强免疫力。可以缓解感染者的疾病症状。
+6192355001482651 身体由三个层面组成：血肉，骨头，神经。如果知道哪个层面出了问题即可对症下药。\n\n这个药剂可以让我接触到血肉层面。
+6192355000610835 增强免疫力。可以缓解感染者的疾病症状。 特别有效。
+6192355000610836 身体由三个层面组成：血肉，骨头，神经。如果知道哪个层面出了问题即可对症下药。\n\n这个药剂可以让我接触到血肉层面。
+6192355000610837 “祖克” 酊剂(+)
+6192355000610772 咖啡
+6192355000610773 Coffee beans will immediately energize you, but it's very unhealthy.
+6192355000610774 Offering coffee beans to the tombs of the Mistresses is considered tone-deaf, for theirs is the element of Dreams.
+6192355000610775 Nothing like a good egg. Delicious. The chicken has yet to be seen.
+6192355000610776 People mostly eat unfertilized eggs. This is an empty illusion of possible life.
+6192355000610777 鸡蛋
+6192355000610799 熏肉
+6192355000610800 比不上新鲜的肉，不过易于保存。手撕即可，无需刀叉。
+6192355000610801 罐头肉，肉干，熏肉，炖肉。牛肉，唔。镇子对烧肉的艺术推崇备至。
+6192355000610802 牛奶
+6192355000610803 Warm, creamy. Satisfies hunger and thirst. Reminds me of childhood.
+6192355000610804 Often used an an offering to the dead, milk serves as a reminder that all that is born must come to an end. It is said that the dead drink milk over water because the flow of water reminds them of the flow of time.
+6192355000610844 一些核桃
+6192355000610845 Can be munched down—with little effect.
+6192355000610846 The game goes like this: find a nut that has traveled far, guess its name, shake it, and listen to stories from the soul trapped inside.\n\nThis originated with the Polyhedron. We didn't play it as kids.
+6192355000610847 水瓶
+6192355000610848 可以解渴。但没法治愈那个生病的女孩。
+6192355000610849 新鲜的水每天从大草原的泉水中取出，由送水工送到小镇各地。高洪河的水被证实是干净的，但是当地人拒绝饮用。
+6192355000610760 Herbs are the words of Earth. She grants them to us by splitting herself open; and so, an herb given to the human body can tell us what ails it.\n\nEach blade of twyre is unique. Herbalists tell them apart by their voices.
+6192355000610761 蓷薾，前面草药，可以用来制作酊剂。
+6192355000610762 血蓷薾
+6192355000610757 黑蓷薾
+6192355000610758 蓷薾，前面草药，可以用来制作酊剂。
+6192355000610759 Herbs are the words of Earth. She grants them to us by splitting herself open; and so, an herb given to the human body can tell us what ails it.\n\nEach blade of twyre is unique. Herbalists tell them apart by their voices.
+6192355000610754 新霉素 (+)
+6192355000610755 降低感染。修复人体的骨头层面。 不能完全治愈病人，但能显著降低死亡率。
+6192355000610756 避免感染的最好方法就是去死。抗生素，以牺牲健康的代价减轻感染，就是迈向坟墓的第一步。相比其他而言，这东西是更棒的杀手。 
+6192355000610790 免疫增强剂
+6192355000610791 Assorted pills of unknown origin. Boost immunity. Smell suspicious.
+6192355000610792 Scientifically speaking, there's no consensus on if immunity can be boosted at all. However, these pills work well. According to the box, they were manufactured more than fifty years ago.
+6192355000610751 吉祥饰品
+6192355000610752 避凶。对我毫无帮助。
+6192355000610753 You can't bring about good fortune—but you can craft it, like this handwoven charm. I suppose I could trade it for something.
+6192355000610769 甲虫
+6192355000610770 在秋天的意外发现，如果有用的话。
+6192355000610771 它们冬天跑哪去了？
+6192355000610778 空瓶
+6192355000610779 可以用来装水或者是血。
+6192355000610780 逝者如斯夫。
+6192355000610796 火柴
+6192355000610797 抽短的！
+6192355000610798 One must recall that which is most dear to them <i>before</i> the match burns out, or the whole thing won't work.
+6192355000610808 Scrap Name
+6192355000610809 When a person is done with their name, they discard it.
+6192355000610810 People in this town are like a flight of birds, and birds don't require names. Individuality is overrated.
+6192355000610811 缝衣针
+6192355000610812 "His death is hidden inside a needle, which is in an egg, which is in a duck..."
+6192355000610813 They say that when Lara Ravel pricked her finger with a needle, no blood was drawn, and she hasn't ever fallen asleep ever since.
+6192355000610817 直剃刀
+6192355000610818 作为武器还是手术用具都太逊了，不过小孩挺喜欢的。
+6192355000610819 十年前，当地强盗自称“理发师”，挥舞着一种特殊的直剃刀彰显自己的身份。 我很好奇这种文化是怎么形成的。
+6192355000610823 肥皂
+6192355000610824 一块普通的肥皂。
+6192355000610825 Nothing fancy, but soap is the best way to maintain hygiene. Essential.
+6192355000610826 纺锤。
+6192355000610827 几乎没线了。
+6192355000610828 Victoria Olgimskaya used to spin. Only for show, of course. What's there to spin when your husband slaughters bulls instead of herding sheep?
+6192355000610838 "指甲币"
+6192355000610839 The ferryman requires payment before he'll let me on the boat. This odd coin will do.
+6192355000610840 Kids play "Mice and Guardians" with these. The rules of this game are unknown, but the rumors say they change every day.
+6192355000610805 钱
+6192355000610806 Shines in the dim light.
+6192355000610807 While we all know what actual money looks like, coins from different countries and times can be seen in the Town. Incredibly, shops and traders accept them all.
+6192355000610781 感染的血液
+6192355000610782 Can be used like any other infected organ.
+6192355000610783 Among the Layers of the body, Blood is often mentioned; at other times, Flesh; but rarely both as two separate Layers. Blood <i>is</i> flesh. "We are of the same blood, you and I." "You are flesh of our flesh."
+6192355000610787 Good Heart
+6192355000610788 活人的心脏
+6192355000610789 In steppe lore, the center of mind and knowledge is the liver, while the center of feeling and emotion is the lower guts. They view the heart as a less crucial and rather mechanical organ that simply pumps life around, oddly arriving at a consensus with science-based medicine.
+6192355000610784 腐烂的心脏
+6192355000610785 A human heart. Living, but vermiculous.
+6192355000610786 In steppe lore, the center of mind and knowledge is the liver, while the center of feeling and emotion is the lower guts. They view the heart as a less crucial and rather mechanical organ that simply pumps life around, oddly arriving at a consensus with science-based medicine.
+6192355000610814 Keeps darkness at bay.
+6192355000610815 火把
+6192355000610816 Keeps darkness at bay.
+6192355000610820 手术刀。
+6192355000610821 即可救人于危难，亦可置人于死地。
+6192355000610822  对于外科医生，或者是萨满长老，或是歹徒，或是开膛手，亦或是我而言，都是可用的工具。
+6192355001082254 生锈的手术刀
+6192355001082255 Either a weapon that can take someone's life, or an essential tool for a surgeon. Shame it's so shoddy.
+6192355001082256  对于外科医生，或者是萨满长老，或是歹徒，或是开膛手，亦或是我而言，都是可用的工具。\n\n这个工具很容易在解剖过程中伤及器官。
+6192355001387959 
+6192355001387960 
+6192355001387961 
+6192355001387962 
+6192355001432165 
+6192355001432166 
+6192355001432167 
+6192355001432168 
+6192355001432169 
+6192355001432170 
+6192355001432171 
+6192355001432172 
+6192355001432173 
+6192355001432174 
+6192355001432175 
+6192355001432176 
+6192355001432177 
+6192355001432178 
+6192355001432179 
+6192355001432180 
+6192355001465261 
+6192355001465262 
+6192355001465263 
+6192355001465264 
+6192355001465265 
+6192355001465266 
+6192355001465267 
+6192355001465268 
+6192355001465269 
+6192355001465270 
+6192355001465271 
+6192355001465272 
+6192355001465273 
+6192355001465274 
+6192355001465275 
+6192355001465276 
+6192355001465277 
+6192355001465278 
+6192355001465279 
+6192355001465280 
+6192355001465281 
+6192355001465282 
+6192355001465283 
+6192355001465284 
+6192355001465285 
+6192355001465286 
+6192355001465287 
+6192355001465288 
+6192355001465289 
+6192355001465290 
+6192355001465291 
+6192355001465292 
+6192355001465293 
+6192355001465294 
+6192355001465295 
+6192355001465296 
+6192355001465297 
+6192355001465298 
+6192355001465299 
+6192355001465300 
+6192355001465301 
+6192355001465302 
+6192355001465303 
+6192355001465304 
+6192355001465305 
+6192355001465306 
+6192355001465307 
+6192355001465308 
+6192355001465309 
+6192355001465310 
+6192355001465311 
+6192355001465312 
+6192355001465313 
+6192355001465314 
+6192355001465315 
+6192355001465316 
+6192355001465317 
+6192355001465318 
+6192355001465319 
+6192355001465320 
+6192355001465321 
+6192355001465322 
+6192355001465323 
+6192355001465324 
+6192355001465325 
+6192355001465326 
+6192355001465327 
+6192355001465328 
+6192355001465329 
+6192355001465330 
+6192355001465331 
+6192355001465332 
+6192355001465333 
+6192355001465334 
+6192355001465335 
+6192355001465336 
+6192355001465337 
+6192355001465338 
+6192355001465339 
+6192355001465340 
+6192355001465341 
+6192355001465342 
+6192355001465343 
+6192355001465344 
+6192355001470954 
+6192355001470955 
+6192355001470956 
+6192355001470957 
+6192355001615435 
+6192355001615436 
+6192355001615437 
+6192355001615438 
+6192355001615439 
+6192355001615440 
+6192355001615441 
+6192355001615442 
+6192355001615443 
+6192355001615444 
+6192355001615445 
+6192355001615446 
+6192355001615447 
+6192355001615448 
+6192355001615449 
+6192355001615450 
+6192355001615651 
+6192355001615652 
+6192355001615653 
+6192355001615654 
+6192355001615655 
+6192355001615656 
+6192355001615657 
+6192355001615658 
+6192355001615659 
+6192355001615660 
+6192355001615661 
+6192355001615662 
+6192355001615663 
+6192355001615664 
+6192355001615665 
+6192355001615666 
+6192355001615667 
+6192355001615668 
+6192355001615669 
+6192355001615670 
+6192355001615671 
+6192355001615672 
+6192355001615673 
+6192355001615674 
+6192355001615675 
+6192355001615676 
+6192355001615677 
+6192355001615678 
+6192355001615679 
+6192355001615680 
+6192355001615681 
+6192355001615682 
+6192355001615683 
+6192355001615684 
+6192355001615685 
+6192355001615686 
+6192355001615687 
+6192355001615688 
+6192355001615689 
+6192355001615690 
+6192355001615691 
+6192355001615692 
+6192355001615693 
+6192355001615694 
+6192355001615695 
+6192355001615696 
+6192355001615697 
+6192355001615698 
+6192355001615699 
+6192355001615700 
+6192355001615701 
+6192355001615702 
+6192355001615703 
+6192355001615704 
+6192355001615705 
+6192355001615706 
+6192355001615707 
+6192355001615708 
+6192355001615709 
+6192355001615710 
+6192355001615711 
+6192355001615712 
+6192355001615713 
+6192355001615714 
+6192355001615715 
+6192355001615716 
+6192355001615717 
+6192355001615718 
+6192355001615719 
+6192355001615720 
+6192355001615721 
+6192355001615722 
+6192355001615723 
+6192355001615724 
+6192355001615725 
+6192355001615726 
+6192355001615727 
+6192355001615728 
+6192355001615729 
+6192355001615730 
+6192355001615731 
+6192355001615732 
+6192355001615733 
+6192355001615734 
+6192355001615735 
+6192355001615736 
+6192355001615737 
+6192355001615738 
+6192355001615739 
+6192355001615740 
+6192355001615741 
+6192355001615742 
+6192355001615743 
+6192355001615744 
+6192355001615745 
+6192355001615746 
+6192355001615747 
+6192355001615748 
+6192355001615749 
+6192355001615750 
+6192355001615364 
+6192355001615365 
+6192355001615366 
