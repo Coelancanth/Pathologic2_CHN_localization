@@ -16,8 +16,7 @@
 6192354999754067 Used in the most popular game among local children, nuts are forbidden in the Polyhedron, where most of the kids fled from the plague. The "voices of nuts" were said to make the facets of the Polyhedron resonate in a bad way.
 6192354999754068 Peanuts
 6192354999754069 While nuts can be munched down, they do little to sate hunger. Why then do the local kids' eyes light up when they see one?
-6192354999754070 Used in the most popular game among local children, nuts are forbidden in the Polyhedron, where most of the kids fled from the plague. The "voices of nuts" were said to make the facets of the Polyhedron resonate in a bad way.
-6192354999754071 Chestnuts
+6192354999754070 Used in the most popular game among local children, nuts are forbid
 6192354999754072 While chestnuts are nuts, they're unedible without cooking. The local children still take a keen interest in them. 
 6192354999754073 Despite the lack of chestnut trees around, chestnuts are omnipresent in the town. Where do they come from?
 6192354999754074 Raisins
